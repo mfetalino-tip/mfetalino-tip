@@ -1,6 +1,6 @@
 - Hi👋
-+ Mico F. Fetalino
-- 3rd Year College
+* Mico F. Fetalino
+-- 3rd Year College
 - My interest is playing basketball
 - qmffetalino@tip.edu.ph
 - Computer Specs:
